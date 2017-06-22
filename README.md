@@ -11,4 +11,4 @@ Based off of [this tutorial](http://blog.jakoblind.no/2017/06/22/how-to-setup-a-
 - Starting point is `index.js` instead of `app.js`. 
 - Mount node has id `root` instead of `app`.
 - Main component renamed to `App` to keep things simple, and is presentational/functional (not class-based)
-- `webpack-dev-server` is used to serve up a testing server
+- `webpack-dev-server` is used to serve up a testing server (use by doing `npm start`)
